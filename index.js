@@ -10,5 +10,5 @@ function destructivelyPrependDriver(name){
 }
 
 function destructiveRemoveLastDrive(name){
-  drivers.push(Garfield);
+  drivers.push(name);
 }
